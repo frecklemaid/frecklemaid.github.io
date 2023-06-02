@@ -2,24 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://specual.github.io/</loc>
+    <loc>https://specual.me/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>http://specual.github.io/about/</loc>
+    <loc>https://specual.me/tags/2023/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/fantasy/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/posts/post-1/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/posts/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://specual.github.io/archives/</loc>
+    <loc>https://specual.me/archives/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://specual.github.io/homepage/</loc>
+    <loc>https://specual.me/homepage/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://specual.github.io/posts/post-1/</loc>
-  </url><url>
-    <loc>http://specual.github.io/categories/</loc>
-  </url><url>
-    <loc>http://specual.github.io/posts/</loc>
-  </url><url>
-    <loc>http://specual.github.io/tags/</loc>
+    <loc>https://specual.me/categories/</loc>
   </url>
 </urlset>

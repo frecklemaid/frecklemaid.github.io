@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Specual</title>
-    <link>http://specual.github.io/posts/</link>
+    <link>https://specual.me/posts/</link>
     <description>Recent content in Posts on Specual</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Frecklemaid</copyright><atom:link href="http://specual.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Frecklemaid</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://specual.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://specual.github.io/posts/post-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Ogres by Adrian Tchaikovsky - Suprisingly political?</title>
+      <link>https://specual.me/posts/post-1/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://specual.github.io/posts/post-1/</guid>
-      <description></description>
+      <guid>https://specual.me/posts/post-1/</guid>
+      <description>&amp;lsquo;Ogres&amp;rsquo; is a novella by sci-fi and fantasy megalith, Adrian Tchaikovsky. The world juxtaposes normal, common humanity with the ruling Ogre class. Larger than everyone else, the ogres rule by inherent genetic &amp;lsquo;supremacy&amp;rsquo; in a feudal-esque steampunk setting. After killing his feudal landlords son, Torquell, larger and stronger than most other humans, is on the run. Eventually his time in imprisonment and servitude sees him discover a chilling truth about the nature of the world, and the origin of the ogres.</description>
     </item>
     
   </channel>

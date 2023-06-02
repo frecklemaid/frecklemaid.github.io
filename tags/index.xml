@@ -2,10 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Specual</title>
-    <link>http://specual.github.io/tags/</link>
+    <link>https://specual.me/tags/</link>
     <description>Recent content in Tags on Specual</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Frecklemaid</copyright><atom:link href="http://specual.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Frecklemaid</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://specual.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023</title>
+      <link>https://specual.me/tags/2023/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://specual.me/tags/2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fantasy</title>
+      <link>https://specual.me/tags/fantasy/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://specual.me/tags/fantasy/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
