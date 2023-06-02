@@ -9,10 +9,13 @@
     <loc>https://specual.me/tags/2023/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://specual.me/tags/books/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://specual.me/tags/fantasy/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://specual.me/posts/post-1/</loc>
+    <loc>https://specual.me/posts/ogres/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://specual.me/posts/</loc>
@@ -21,6 +24,12 @@
     <loc>https://specual.me/tags/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://specual.me/posts/timeofchanges/</loc>
+    <lastmod>2023-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/science-fiction/</loc>
+    <lastmod>2023-01-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://specual.me/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -28,5 +37,17 @@
     <priority>0</priority>
   </url><url>
     <loc>https://specual.me/categories/</loc>
+  </url><url>
+    <loc>https://specual.me/tags/nonfiction/</loc>
+  </url><url>
+    <loc>https://specual.me/tags/politics/</loc>
+  </url><url>
+    <loc>https://specual.me/posts/thegrandchessboard/</loc>
+  </url><url>
+    <loc>https://specual.me/tags/tips/</loc>
+  </url><url>
+    <loc>https://specual.me/posts/endingya/</loc>
+  </url><url>
+    <loc>https://specual.me/posts/theirondream/</loc>
   </url>
 </urlset>
