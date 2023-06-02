@@ -21,13 +21,10 @@
     <loc>https://specual.me/tags/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://specual.me/about/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://specual.me/archives/</loc>
-    <priority>0</priority>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://specual.me/homepage/</loc>
+    <loc>https://specual.me/about/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://specual.me/categories/</loc>

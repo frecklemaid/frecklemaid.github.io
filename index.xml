@@ -19,17 +19,8 @@
     
     <item>
       <title></title>
-      <link>https://specual.me/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://specual.me/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://specual.me/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://specual.me/archives/</guid>
       <description></description>
@@ -37,10 +28,10 @@
     
     <item>
       <title></title>
-      <link>https://specual.me/homepage/</link>
+      <link>https://specual.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://specual.me/homepage/</guid>
+      <guid>https://specual.me/about/</guid>
       <description></description>
     </item>
     
