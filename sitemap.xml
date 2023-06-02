@@ -2,52 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://specual.me/about/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://specual.me/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>https://specual.me/tags/2023/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://specual.me/tags/books/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://specual.me/tags/fantasy/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://specual.me/posts/ogres/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://specual.me/posts/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://specual.me/tags/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://specual.me/posts/timeofchanges/</loc>
-    <lastmod>2023-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/books/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/posts/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://specual.me/tags/science-fiction/</loc>
-    <lastmod>2023-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/posts/westernphilosophyinspanish/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/language-learning/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/nonfiction/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/spanish/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/politics/</loc>
+    <lastmod>2023-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/posts/thegrandchessboard/</loc>
+    <lastmod>2023-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/fantasy/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/posts/ogres/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/posts/theirondream/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/tips/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/posts/endingya/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://specual.me/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://specual.me/about/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://specual.me/categories/</loc>
-  </url><url>
-    <loc>https://specual.me/tags/nonfiction/</loc>
-  </url><url>
-    <loc>https://specual.me/tags/politics/</loc>
-  </url><url>
-    <loc>https://specual.me/posts/thegrandchessboard/</loc>
-  </url><url>
-    <loc>https://specual.me/tags/tips/</loc>
-  </url><url>
-    <loc>https://specual.me/posts/endingya/</loc>
-  </url><url>
-    <loc>https://specual.me/posts/theirondream/</loc>
   </url>
 </urlset>
