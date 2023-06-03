@@ -6,11 +6,23 @@
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://specual.me/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>https://specual.me/tags/2023/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/language-learning/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/personal/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/privacy/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://specual.me/tags/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://specual.me/posts/timeofchanges/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
@@ -24,13 +36,7 @@
     <loc>https://specual.me/tags/science-fiction/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://specual.me/tags/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://specual.me/posts/westernphilosophyinspanish/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://specual.me/tags/language-learning/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://specual.me/tags/nonfiction/</loc>
@@ -62,9 +68,6 @@
   </url><url>
     <loc>https://specual.me/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://specual.me/stats/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://specual.me/categories/</loc>
   </url>
