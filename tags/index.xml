@@ -5,17 +5,62 @@
     <link>https://specual.me/tags/</link>
     <description>Recent content in Tags on Specual</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>Page(/tags)</language>
     <managingEditor>fqaouwsst@mozmail.com (Mackenzie Fletcher)</managingEditor>
     <webMaster>fqaouwsst@mozmail.com (Mackenzie Fletcher)</webMaster>
     <copyright>© Frecklemaid</copyright>
-    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://specual.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://specual.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023</title>
+      <link>https://specual.me/tags/2023/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
+      <guid>https://specual.me/tags/2023/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Books</title>
       <link>https://specual.me/tags/books/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
       <guid>https://specual.me/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment</title>
+      <link>https://specual.me/tags/environment/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
+      <guid>https://specual.me/tags/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>French</title>
+      <link>https://specual.me/tags/french/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
+      <guid>https://specual.me/tags/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonfiction</title>
+      <link>https://specual.me/tags/nonfiction/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
+      <guid>https://specual.me/tags/nonfiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://specual.me/tags/history/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
+      <guid>https://specual.me/tags/history/</guid>
       <description></description>
     </item>
     
@@ -29,38 +74,11 @@
     </item>
     
     <item>
-      <title>French</title>
-      <link>https://specual.me/tags/french/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
-      <guid>https://specual.me/tags/french/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Speculative</title>
       <link>https://specual.me/tags/speculative/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
       <guid>https://specual.me/tags/speculative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2023</title>
-      <link>https://specual.me/tags/2023/</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
-      <guid>https://specual.me/tags/2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonfiction</title>
-      <link>https://specual.me/tags/nonfiction/</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
-      <guid>https://specual.me/tags/nonfiction/</guid>
       <description></description>
     </item>
     

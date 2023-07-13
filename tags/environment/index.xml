@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>French on Specual</title>
-    <link>https://specual.me/tags/french/</link>
-    <description>Recent content in French on Specual</description>
+    <title>Environment on Specual</title>
+    <link>https://specual.me/tags/environment/</link>
+    <description>Recent content in Environment on Specual</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>Page(/tags/french)</language>
+    <language>Page(/tags/environment)</language>
     <managingEditor>fqaouwsst@mozmail.com (Mackenzie Fletcher)</managingEditor>
     <webMaster>fqaouwsst@mozmail.com (Mackenzie Fletcher)</webMaster>
     <copyright>© Frecklemaid</copyright>
-    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://specual.me/tags/french/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://specual.me/tags/environment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L’Âge des low-tech by Philippe Bihouix</title>
       <link>https://specual.me/posts/bihouix/</link>
@@ -17,16 +17,6 @@
       <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
       <guid>https://specual.me/posts/bihouix/</guid>
       <description>‘L’Âge des Low-Tech’ or ‘The Age of Low Tech’ by Philippe Bihouix asks the question: Can we out-think our consumption of resources? According to Bihouix, the answer is a resounding no. No amount of technological innovation will be able to support the technologically complex lifestyles we now prefer. In the face of anthropogenic environmental impacts, Bihouix posits that our prime solution lies not in technological innovations which shift to alternate environmental impacts, but in the technical simplifcation of our societies.</description>
-    </item>
-    
-    <item>
-      <title>Elle et son chat by Makoto Shinkai (trans. Naruki Nakagawa)</title>
-      <link>https://specual.me/posts/elleetsonchat/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
-      <guid>https://specual.me/posts/elleetsonchat/</guid>
-      <description>‘Elle et son chat’ by Makoto Shinkai is a collection of interconnected stories about the cats of a neighbourhood in Tokyo. Throughout we get to see the perspective of the cats and their people. A perfect airport book purchase, I read this across a week of travel and had a wonderful time.
-Cozy, Wholesome Vibes This book is rife with wholesome but at times sad vibes. The author doesn’t shy away from topics of mental health including loneliness, agoraphobia, sexual assault and loss.</description>
     </item>
     
   </channel>

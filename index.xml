@@ -5,11 +5,11 @@
     <link>https://specual.me/</link>
     <description>Recent content on Specual</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>Page(/_index.md)</language>
     <managingEditor>fqaouwsst@mozmail.com (Mackenzie Fletcher)</managingEditor>
     <webMaster>fqaouwsst@mozmail.com (Mackenzie Fletcher)</webMaster>
     <copyright>© Frecklemaid</copyright>
-    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://specual.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://specual.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://specual.me/about/</link>
@@ -17,6 +17,24 @@
       <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
       <guid>https://specual.me/about/</guid>
       <description>At just 21 years old I have accomplished an overwhelming amount of nothing, so if this blog brightens even one persons day I&amp;rsquo;d be stoked. In my normal, not-on-the-internet life I frequent my university where I&amp;rsquo;m studying a double degree in Arts and IT. I spend way too little time doing coursework, so writing random blog posts provides an entertaining way to procrastinate, and given the Coronapocalypse that&amp;rsquo;s going on as I&amp;rsquo;m writing this it&amp;rsquo;s also providing a useful distraction from the world.</description>
+    </item>
+    
+    <item>
+      <title>L’Âge des low-tech by Philippe Bihouix</title>
+      <link>https://specual.me/posts/bihouix/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
+      <guid>https://specual.me/posts/bihouix/</guid>
+      <description>‘L’Âge des Low-Tech’ or ‘The Age of Low Tech’ by Philippe Bihouix asks the question: Can we out-think our consumption of resources? According to Bihouix, the answer is a resounding no. No amount of technological innovation will be able to support the technologically complex lifestyles we now prefer. In the face of anthropogenic environmental impacts, Bihouix posits that our prime solution lies not in technological innovations which shift to alternate environmental impacts, but in the technical simplifcation of our societies.</description>
+    </item>
+    
+    <item>
+      <title>The Harlem Renaissance, Edited by Cary D. Wintz</title>
+      <link>https://specual.me/posts/harlemrenaissance/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
+      <guid>https://specual.me/posts/harlemrenaissance/</guid>
+      <description>‘The Harlem Renaissance’ provides a keen look into the interwar African-American literary movement after which it is titled. Wintz provides both a history and anthology of key pieces from the movement in his efforts to provide a comprehensive overview of the historical key authors and themes. I will attempt in this review to address primarily the efforts of Wintz and not the writers which he included in the anthology that made up the bulk of the book.</description>
     </item>
     
     <item>
@@ -116,6 +134,15 @@ Cozy, Wholesome Vibes This book is rife with wholesome but at times sad vibes. T
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
       <guid>https://specual.me/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://specual.me/posts/athens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>fqaouwsst@mozmail.com (Mackenzie Fletcher)</author>
+      <guid>https://specual.me/posts/athens/</guid>
       <description></description>
     </item>
     
